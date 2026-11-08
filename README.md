@@ -14,7 +14,7 @@ https://wadityasingh.github.io/Custom-404-Error-Page-Day-30/
 
 ## GitHub Repository
 
-[View Source Code](YOUR_GITHUB_REPOSITORY_LINK)
+https://github.com/wadityasingh/Custom-404-Error-Page-Day-30.git
 
 ## Features
 
